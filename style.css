@@ -1,0 +1,365 @@
+/* =========================================
+   E-COMMERCE SALES DASHBOARD
+   DARK NAVY + PURPLE / BLUE THEME
+   ========================================= */
+
+
+/* =========================================
+   MAIN DASHBOARD BACKGROUND
+   ========================================= */
+
+.stApp {
+    background: #0b1120;
+}
+
+.main {
+    background: #0b1120;
+}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+
+/* =========================================
+   MAIN HEADINGS
+   ========================================= */
+
+h1 {
+    color: #e2e8f0 !important;
+    font-weight: 800 !important;
+}
+
+h2 {
+    color: #f1f5f9 !important;
+    font-size: 25px !important;
+    font-weight: 800 !important;
+    margin-top: 25px;
+}
+
+h3 {
+    color: #e2e8f0 !important;
+    font-size: 20px !important;
+    font-weight: 750 !important;
+}
+
+
+/* =========================================
+   DASHBOARD TITLE
+   ========================================= */
+
+.dashboard-title {
+    background: linear-gradient(
+        135deg,
+        #3730a3,
+        #5b21b6,
+        #1d4ed8
+    );
+
+    padding: 26px;
+
+    border-radius: 18px;
+
+    margin-bottom: 25px;
+
+    text-align: center;
+
+    box-shadow:
+        0 8px 25px rgba(0, 0, 0, 0.35);
+}
+
+.dashboard-title h1 {
+    color: #e5e7eb !important;
+    font-size: 34px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.dashboard-title p {
+    color: #cbd5e1;
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+
+/* =========================================
+   KPI CARDS
+   ========================================= */
+
+.kpi-container {
+    background: #e5e7eb;
+
+    padding: 20px;
+
+    border-radius: 16px;
+
+    border: 1px solid #cbd5e1;
+
+    text-align: center;
+
+    margin-bottom: 18px;
+
+    box-shadow:
+        0 7px 18px rgba(0, 0, 0, 0.28);
+
+    transition: all 0.25s ease;
+}
+
+.kpi-container:hover {
+    transform: translateY(-3px);
+
+    border-color: #94a3b8;
+
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, 0.38);
+}
+
+
+/* KPI titles */
+
+.kpi-title {
+    font-size: 14px;
+
+    font-weight: 700;
+
+    color: #334155;
+
+    margin-bottom: 8px;
+}
+
+
+/* KPI values */
+
+.kpi-value {
+    font-size: 26px;
+
+    font-weight: 800;
+
+    color: #000000;
+}
+
+
+/* =========================================
+   SIDEBAR
+   ========================================= */
+
+[data-testid="stSidebar"] {
+    background: #090f1c;
+
+    border-right: 1px solid #1e293b;
+}
+
+
+/* Sidebar text */
+
+[data-testid="stSidebar"] * {
+    color: #cbd5e1;
+}
+
+
+/* Sidebar headings */
+
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3 {
+    color: #a78bfa !important;
+}
+
+
+/* =========================================
+   SIDEBAR DASHBOARD BOX
+   ========================================= */
+
+[data-testid="stSidebar"] .stMarkdown {
+    color: #cbd5e1;
+}
+
+
+/* =========================================
+   SELECT BOX
+   ========================================= */
+
+div[data-baseweb="select"] {
+    background-color: #151e2f;
+
+    border-radius: 10px;
+
+    border: 1px solid #334155;
+}
+
+
+/* Selectbox text */
+
+div[data-baseweb="select"] * {
+    color: #cbd5e1 !important;
+}
+
+
+/* =========================================
+   GRAPH SELECTOR
+   ========================================= */
+
+[data-testid="stSelectbox"] label {
+    color: #a78bfa !important;
+
+    font-weight: 700;
+
+    font-size: 15px;
+}
+
+
+/* =========================================
+   ANALYSIS SECTION HEADINGS
+   ========================================= */
+
+.stMarkdown h4 {
+    color: #e2e8f0 !important;
+
+    font-size: 18px !important;
+
+    font-weight: 800 !important;
+
+    margin-bottom: 8px;
+}
+
+
+/* =========================================
+   GENERAL ANALYSIS TEXT
+   ========================================= */
+
+.stMarkdown p {
+    color: #cbd5e1;
+
+    font-weight: 500;
+}
+
+
+/* =========================================
+   CHART AREA
+   ========================================= */
+
+[data-testid="stVegaLiteChart"] {
+    background: #151e2f;
+
+    padding: 12px;
+
+    border-radius: 16px;
+
+    border: 1px solid #263449;
+
+    box-shadow:
+        0 7px 18px rgba(0, 0, 0, 0.28);
+}
+
+
+/* =========================================
+   CHART TEXT
+   ========================================= */
+
+[data-testid="stVegaLiteChart"] text {
+    fill: #dbe4f0 !important;
+
+    font-weight: 600 !important;
+}
+
+
+/* =========================================
+   DATA TABLE
+   ========================================= */
+
+[data-testid="stDataFrame"] {
+    border-radius: 14px;
+
+    overflow: hidden;
+
+    border: 1px solid #263449;
+
+    box-shadow:
+        0 7px 18px rgba(0, 0, 0, 0.28);
+}
+
+
+/* =========================================
+   BUTTONS
+   ========================================= */
+
+.stButton > button {
+    background: linear-gradient(
+        135deg,
+        #4f46e5,
+        #6d28d9
+    );
+
+    color: #e2e8f0;
+
+    border: none;
+
+    border-radius: 10px;
+
+    font-weight: 700;
+
+    padding: 10px 20px;
+}
+
+.stButton > button:hover {
+    background: linear-gradient(
+        135deg,
+        #4338ca,
+        #5b21b6
+    );
+
+    color: #ffffff;
+}
+
+
+/* =========================================
+   DIVIDERS
+   ========================================= */
+
+hr {
+    border: none;
+
+    height: 1px;
+
+    background: #263449;
+
+    margin-top: 25px;
+
+    margin-bottom: 25px;
+}
+
+
+/* =========================================
+   STREAMLIT METRICS
+   ========================================= */
+
+[data-testid="stMetricValue"] {
+    color: #cbd5e1 !important;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #94a3b8 !important;
+}
+
+
+/* =========================================
+   SCROLLBAR
+   ========================================= */
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0b1120;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #334155;
+
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #475569;
+}

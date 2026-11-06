@@ -1,0 +1,251 @@
+Order_ID,Date,Customer,Customer_Type,City,Product,Category,Quantity,Unit_Price,Discount_%,Sales,Cost,Profit,Payment_Method,Customer_Rating,Delivery_Days
+ORD-10002,2025-02-22,Customer_012,VIP,Peshawar,Smartphone,Electronics,3,48000,5,136800.0,104348.47,32451.53,Cash on Delivery,5,4
+ORD-10003,2025-01-14,Customer_070,Returning,Rawalpindi,Laptop,Electronics,2,100500,5,190950.0,156995.28,33954.72,JazzCash,5,4
+ORD-10004,2025-06-24,Customer_044,New,Karachi,Monitor,Computer Accessories,1,45500,5,43225.0,37293.07,5931.93,JazzCash,4,3
+ORD-10005,2025-08-24,Customer_049,New,Faisalabad,Smartphone,Electronics,3,90500,10,244350.0,228447.07,15902.93,EasyPaisa,5,4
+ORD-10006,2025-04-27,Customer_030,New,Peshawar,Wireless Earbuds,Accessories,2,12500,0,25000.0,17229.12,7770.88,Debit Card,5,5
+ORD-10007,2025-04-18,Customer_010,VIP,Islamabad,Keyboard,Computer Accessories,3,7500,5,21375.0,16965.81,4409.19,EasyPaisa,5,4
+ORD-10008,2025-11-24,Customer_042,New,Rawalpindi,Smartwatch,Wearables,4,17000,15,57800.0,66434.92,-8634.92,Cash on Delivery,4,4
+ORD-10009,2025-10-18,Customer_064,Returning,Gujranwala,Wireless Earbuds,Accessories,3,9500,0,28500.0,20582.6,7917.4,Credit Card,4,6
+ORD-10010,2025-08-08,Customer_029,New,Gujranwala,Headphones,Accessories,2,7000,10,12600.0,11611.64,988.36,Cash on Delivery,4,6
+ORD-10011,2025-08-05,Customer_077,Returning,Faisalabad,Laptop,Electronics,2,102000,5,193800.0,237200.75,-43400.75,EasyPaisa,4,4
+ORD-10012,2025-06-24,Customer_059,New,Faisalabad,Laptop,Electronics,5,102000,10,459000.0,572067.84,-113067.84,EasyPaisa,4,2
+ORD-10013,2025-09-17,Customer_021,VIP,Lahore,Tablet,Electronics,1,62000,10,55800.0,52596.7,3203.3,EasyPaisa,3,4
+ORD-10014,2025-06-07,Customer_073,New,Karachi,Wireless Earbuds,Accessories,1,11000,0,11000.0,9524.02,1475.98,JazzCash,4,2
+ORD-10015,2025-10-09,Customer_078,Returning,Rawalpindi,Smartphone,Electronics,2,113000,5,214700.0,183500.74,31199.26,EasyPaisa,5,2
+ORD-10016,2025-11-29,Customer_058,New,Rawalpindi,Smartwatch,Wearables,3,34500,15,87975.0,90979.59,-3004.59,Credit Card,5,3
+ORD-10017,2025-01-04,Customer_030,New,Lahore,Smartphone,Electronics,1,88000,5,83600.0,106227.1,-22627.1,Debit Card,5,1
+ORD-10018,2025-04-20,Customer_074,VIP,Gujranwala,Smartphone,Electronics,2,110500,10,198900.0,179848.82,19051.18,Credit Card,5,4
+ORD-10019,2025-12-04,Customer_060,VIP,Lahore,Keyboard,Computer Accessories,4,8500,5,32300.0,23761.42,8538.58,Cash on Delivery,4,3
+ORD-10020,2025-04-08,Customer_024,Returning,Gujranwala,Laptop,Electronics,3,120500,0,361500.0,420101.33,-58601.33,Credit Card,3,4
+ORD-10021,2025-10-04,Customer_031,New,Peshawar,Smartphone,Electronics,5,101500,0,507500.0,640295.13,-132795.13,JazzCash,5,6
+ORD-10022,2025-01-02,Customer_059,Returning,Peshawar,Keyboard,Computer Accessories,4,4000,0,16000.0,11406.84,4593.16,EasyPaisa,4,8
+ORD-10023,2025-01-30,Customer_041,New,Lahore,Keyboard,Computer Accessories,2,3500,10,6300.0,5064.78,1235.22,EasyPaisa,5,4
+ORD-10024,2025-09-18,Customer_077,New,Rawalpindi,Keyboard,Computer Accessories,5,6500,5,30875.0,22469.72,8405.28,JazzCash,3,2
+ORD-10025,2025-08-03,Customer_041,Returning,Rawalpindi,Smartphone,Electronics,5,76500,0,382500.0,307482.69,75017.31,Debit Card,5,4
+ORD-10026,2025-06-03,Customer_010,New,Gujranwala,Smartwatch,Wearables,4,20000,5,76000.0,85098.56,-9098.56,EasyPaisa,5,3
+ORD-10027,2025-03-09,Customer_032,Returning,Faisalabad,Monitor,Computer Accessories,1,34000,5,32300.0,36380.81,-4080.81,Credit Card,5,7
+ORD-10028,2025-12-01,Customer_071,Returning,Karachi,Keyboard,Computer Accessories,5,9000,10,40500.0,36105.1,4394.9,Credit Card,5,4
+ORD-10029,2025-11-06,Customer_034,VIP,Gujranwala,Headphones,Accessories,1,6500,5,6175.0,4774.05,1400.95,Debit Card,4,2
+ORD-10030,2025-06-20,Customer_034,New,Gujranwala,Laptop,Electronics,4,100500,10,361800.0,276904.58,84895.42,EasyPaisa,5,5
+ORD-10031,2025-12-20,Customer_048,VIP,Islamabad,Power Bank,Accessories,1,6500,0,6500.0,4517.82,1982.18,JazzCash,5,6
+ORD-10032,2025-01-21,Customer_032,VIP,Karachi,Tablet,Electronics,3,32500,10,87750.0,106813.43,-19063.43,Debit Card,4,6
+ORD-10033,2025-05-02,Customer_023,Returning,Lahore,Mouse,Computer Accessories,5,4500,5,21375.0,19465.94,1909.06,Credit Card,5,6
+ORD-10034,2025-12-26,Customer_061,New,Rawalpindi,Wireless Earbuds,Accessories,2,10000,10,18000.0,14236.79,3763.21,JazzCash,5,2
+ORD-10035,2025-04-09,Customer_009,Returning,Multan,Wireless Earbuds,Accessories,2,8000,5,15200.0,19532.51,-4332.51,EasyPaisa,4,3
+ORD-10036,2025-05-14,Customer_034,New,Karachi,Power Bank,Accessories,3,6500,0,19500.0,13709.83,5790.17,EasyPaisa,5,2
+ORD-10037,2025-09-19,Customer_025,Returning,Lahore,Power Bank,Accessories,3,5000,15,12750.0,12018.63,731.37,JazzCash,5,2
+ORD-10038,2025-02-05,Customer_080,Returning,Karachi,Laptop,Electronics,5,128000,5,608000.0,481820.35,126179.65,Debit Card,5,7
+ORD-10039,2025-06-01,Customer_049,VIP,Islamabad,Mouse,Computer Accessories,4,3500,10,12600.0,10646.72,1953.28,EasyPaisa,3,4
+ORD-10040,2025-04-18,Customer_042,Returning,Gujranwala,Monitor,Computer Accessories,4,47000,0,188000.0,139265.7,48734.3,JazzCash,5,3
+ORD-10041,2025-05-26,Customer_043,New,Rawalpindi,Smartwatch,Wearables,4,28000,5,106400.0,90918.26,15481.74,Debit Card,5,4
+ORD-10042,2025-09-01,Customer_059,Returning,Rawalpindi,Smartwatch,Wearables,2,18000,0,36000.0,24812.74,11187.26,JazzCash,5,4
+ORD-10043,2025-01-03,Customer_014,Returning,Rawalpindi,Keyboard,Computer Accessories,2,5500,5,10450.0,8923.33,1526.67,Credit Card,5,6
+ORD-10044,2025-03-04,Customer_068,VIP,Multan,Mouse,Computer Accessories,1,5000,5,4750.0,4317.47,432.53,JazzCash,5,3
+ORD-10045,2025-09-01,Customer_036,VIP,Gujranwala,Monitor,Computer Accessories,4,60000,20,192000.0,206265.99,-14265.99,Credit Card,5,3
+ORD-10046,2025-06-21,Customer_018,New,Rawalpindi,Headphones,Accessories,1,12000,10,10800.0,8722.78,2077.22,JazzCash,5,3
+ORD-10047,2025-06-19,Customer_027,Returning,Peshawar,Tablet,Electronics,2,75000,0,150000.0,189409.82,-39409.82,EasyPaisa,4,4
+ORD-10048,2025-06-30,Customer_054,VIP,Rawalpindi,Laptop,Electronics,4,131500,20,420800.0,358300.27,62499.73,JazzCash,4,3
+ORD-10049,2025-06-22,Customer_022,Returning,Islamabad,Smartwatch,Wearables,4,20500,20,65600.0,56236.01,9363.99,EasyPaisa,5,4
+ORD-10050,2025-08-08,Customer_007,Returning,Peshawar,Mouse,Computer Accessories,4,1500,0,6000.0,4180.74,1819.26,Debit Card,4,2
+ORD-10051,2025-07-14,Customer_054,Returning,Karachi,Smartwatch,Wearables,3,26500,10,71550.0,66163.55,5386.45,JazzCash,5,3
+ORD-10052,2025-02-05,Customer_004,New,Rawalpindi,Laptop,Electronics,1,129500,10,116550.0,93867.35,22682.65,Cash on Delivery,5,5
+ORD-10053,2025-02-28,Customer_033,Returning,Islamabad,Monitor,Computer Accessories,2,37500,5,71250.0,58103.42,13146.58,EasyPaisa,4,4
+ORD-10054,2025-01-14,Customer_049,Returning,Rawalpindi,Monitor,Computer Accessories,2,35000,10,63000.0,49113.38,13886.62,Cash on Delivery,5,7
+ORD-10055,2025-11-04,Customer_073,New,Multan,Monitor,Computer Accessories,1,43500,10,39150.0,36977.55,2172.45,EasyPaisa,5,5
+ORD-10056,2025-08-04,Customer_047,VIP,Gujranwala,Power Bank,Accessories,1,5000,10,4500.0,3412.65,1087.35,Credit Card,3,5
+ORD-10057,2025-10-03,Customer_076,Returning,Multan,Power Bank,Accessories,5,3500,10,15750.0,20221.56,-4471.56,Credit Card,4,5
+ORD-10058,2025-10-19,Customer_004,Returning,Multan,Smartphone,Electronics,4,80500,5,305900.0,267290.67,38609.33,Credit Card,4,4
+ORD-10059,2025-11-02,Customer_002,VIP,Rawalpindi,Keyboard,Computer Accessories,3,4000,10,10800.0,8976.81,1823.19,Cash on Delivery,4,4
+ORD-10060,2025-05-04,Customer_063,Returning,Lahore,Smartwatch,Wearables,4,35000,20,112000.0,110744.93,1255.07,Cash on Delivery,5,4
+ORD-10061,2025-10-25,Customer_045,Returning,Multan,Headphones,Accessories,4,8500,5,32300.0,25202.2,7097.8,Debit Card,5,3
+ORD-10062,2025-04-09,Customer_024,New,Rawalpindi,Keyboard,Computer Accessories,3,4500,10,12150.0,15302.04,-3152.04,JazzCash,5,3
+ORD-10063,2025-04-10,Customer_039,New,Islamabad,Headphones,Accessories,5,16500,10,74250.0,72278.43,1971.57,Debit Card,4,3
+ORD-10064,2025-03-06,Customer_014,New,Faisalabad,Laptop,Electronics,5,98000,10,441000.0,401546.9,39453.1,JazzCash,5,4
+ORD-10065,2025-05-10,Customer_009,Returning,Gujranwala,Keyboard,Computer Accessories,3,6000,5,17100.0,15715.79,1384.21,Cash on Delivery,4,7
+ORD-10066,2025-06-05,Customer_072,Returning,Rawalpindi,Monitor,Computer Accessories,2,31000,5,58900.0,52218.16,6681.84,EasyPaisa,4,2
+ORD-10067,2025-08-08,Customer_079,VIP,Karachi,Power Bank,Accessories,4,6000,10,21600.0,20448.8,1151.2,Credit Card,5,3
+ORD-10068,2025-10-10,Customer_058,VIP,Gujranwala,Smartwatch,Wearables,1,20000,5,19000.0,14559.46,4440.54,Debit Card,1,1
+ORD-10069,2025-08-21,Customer_034,VIP,Rawalpindi,Laptop,Electronics,3,109500,10,295650.0,384068.1,-88418.1,JazzCash,4,1
+ORD-10070,2025-03-14,Customer_040,VIP,Faisalabad,Smartphone,Electronics,2,114500,5,217550.0,250427.69,-32877.69,JazzCash,3,1
+ORD-10071,2025-09-14,Customer_077,New,Peshawar,Smartphone,Electronics,3,104500,15,266475.0,272285.8,-5810.8,Debit Card,4,4
+ORD-10072,2025-12-12,Customer_003,VIP,Faisalabad,Monitor,Computer Accessories,1,44000,0,44000.0,31934.53,12065.47,EasyPaisa,5,6
+ORD-10073,2025-04-03,Customer_063,New,Gujranwala,Laptop,Electronics,4,106000,20,339200.0,366002.97,-26802.97,Debit Card,4,8
+ORD-10074,2025-06-18,Customer_052,VIP,Lahore,Power Bank,Accessories,3,5000,0,15000.0,12773.2,2226.8,JazzCash,4,3
+ORD-10075,2025-07-26,Customer_001,VIP,Gujranwala,Smartphone,Electronics,3,85000,10,229500.0,179312.0,50188.0,JazzCash,5,6
+ORD-10076,2025-09-13,Customer_027,Returning,Islamabad,Laptop,Electronics,5,107000,10,481500.0,430421.82,51078.18,Debit Card,5,4
+ORD-10077,2025-11-19,Customer_021,Returning,Lahore,Keyboard,Computer Accessories,4,8000,0,32000.0,21944.76,10055.24,EasyPaisa,4,4
+ORD-10078,2025-03-02,Customer_038,VIP,Faisalabad,Power Bank,Accessories,2,3000,0,6000.0,4633.74,1366.26,JazzCash,3,4
+ORD-10079,2025-07-16,Customer_018,New,Faisalabad,Keyboard,Computer Accessories,2,6000,20,9600.0,9483.04,116.96,JazzCash,5,2
+ORD-10080,2025-06-02,Customer_063,New,Gujranwala,Wireless Earbuds,Accessories,3,11500,0,34500.0,25411.59,9088.41,EasyPaisa,5,6
+ORD-10081,2025-06-14,Customer_031,VIP,Peshawar,Keyboard,Computer Accessories,3,5000,15,12750.0,11566.03,1183.97,Credit Card,5,6
+ORD-10082,2025-07-15,Customer_020,Returning,Lahore,Power Bank,Accessories,3,2500,20,6000.0,6157.84,-157.84,Credit Card,5,3
+ORD-10083,2025-08-14,Customer_002,VIP,Islamabad,Mouse,Computer Accessories,3,6000,0,18000.0,15387.09,2612.91,JazzCash,5,2
+ORD-10084,2025-12-21,Customer_043,VIP,Peshawar,Tablet,Electronics,4,34500,10,124200.0,103184.29,21015.71,Debit Card,3,3
+ORD-10085,2025-05-01,Customer_030,VIP,Karachi,Keyboard,Computer Accessories,5,9000,0,45000.0,36157.14,8842.86,JazzCash,5,4
+ORD-10086,2025-01-15,Customer_038,Returning,Multan,Smartphone,Electronics,4,57500,5,218500.0,188324.05,30175.95,JazzCash,5,1
+ORD-10087,2025-04-03,Customer_049,VIP,Rawalpindi,Tablet,Electronics,5,45500,15,193375.0,180449.73,12925.27,JazzCash,2,2
+ORD-10088,2025-08-24,Customer_060,Returning,Islamabad,Monitor,Computer Accessories,2,37000,20,59200.0,59760.99,-560.99,Cash on Delivery,1,2
+ORD-10089,2025-08-06,Customer_039,New,Peshawar,Keyboard,Computer Accessories,5,5000,10,22500.0,20194.69,2305.31,JazzCash,4,4
+ORD-10090,2025-12-25,Customer_051,Returning,Lahore,Smartphone,Electronics,4,75000,10,270000.0,238488.72,31511.28,EasyPaisa,5,3
+ORD-10091,2025-04-28,Customer_025,VIP,Faisalabad,Laptop,Electronics,4,133500,10,480600.0,445969.14,34630.86,Credit Card,4,4
+ORD-10092,2025-07-06,Customer_038,Returning,Peshawar,Smartphone,Electronics,3,50000,20,120000.0,103000.94,16999.06,Credit Card,3,5
+ORD-10093,2025-05-20,Customer_062,Returning,Multan,Smartwatch,Wearables,5,16000,10,72000.0,62893.64,9106.36,Cash on Delivery,4,6
+ORD-10094,2025-12-12,Customer_072,Returning,Karachi,Keyboard,Computer Accessories,2,3000,5,5700.0,5112.17,587.83,JazzCash,5,8
+ORD-10095,2025-12-11,Customer_049,VIP,Multan,Laptop,Electronics,5,111500,0,557500.0,429808.64,127691.36,Cash on Delivery,4,5
+ORD-10096,2025-04-24,Customer_060,VIP,Faisalabad,Smartwatch,Wearables,1,27000,10,24300.0,23302.38,997.62,JazzCash,5,4
+ORD-10097,2025-09-10,Customer_069,New,Peshawar,Smartphone,Electronics,1,62500,0,62500.0,46304.56,16195.44,JazzCash,4,2
+ORD-10098,2025-03-21,Customer_063,VIP,Peshawar,Wireless Earbuds,Accessories,5,14000,15,59500.0,55822.76,3677.24,Debit Card,5,6
+ORD-10099,2025-05-01,Customer_048,VIP,Multan,Laptop,Electronics,2,118500,20,189600.0,223621.41,-34021.41,Cash on Delivery,3,6
+ORD-10100,2025-08-21,Customer_077,New,Lahore,Power Bank,Accessories,2,4500,0,9000.0,7828.22,1171.78,Debit Card,4,2
+ORD-10101,2025-10-11,Customer_030,Returning,Islamabad,Smartwatch,Wearables,5,16000,5,76000.0,55497.76,20502.24,EasyPaisa,4,2
+ORD-10102,2025-03-31,Customer_017,New,Multan,Laptop,Electronics,2,112500,5,213750.0,177309.7,36440.3,Credit Card,5,2
+ORD-10103,2025-03-06,Customer_009,Returning,Gujranwala,Monitor,Computer Accessories,1,48500,5,46075.0,35554.06,10520.94,Debit Card,5,5
+ORD-10104,2025-11-11,Customer_067,Returning,Gujranwala,Mouse,Computer Accessories,1,6000,20,4800.0,4684.61,115.39,Cash on Delivery,5,1
+ORD-10105,2025-09-09,Customer_011,Returning,Islamabad,Laptop,Electronics,4,125500,15,426700.0,410244.19,16455.81,Cash on Delivery,4,5
+ORD-10106,2025-11-02,Customer_078,Returning,Karachi,Tablet,Electronics,5,47500,10,213750.0,236650.64,-22900.64,Cash on Delivery,4,4
+ORD-10107,2025-07-31,Customer_054,VIP,Karachi,Mouse,Computer Accessories,4,3000,20,9600.0,10291.42,-691.42,Debit Card,4,3
+ORD-10108,2025-12-18,Customer_011,New,Peshawar,Power Bank,Accessories,3,5000,10,13500.0,13060.78,439.22,Cash on Delivery,2,7
+ORD-10109,2025-10-15,Customer_053,Returning,Peshawar,Wireless Earbuds,Accessories,5,5500,0,27500.0,21925.56,5574.44,Cash on Delivery,5,4
+ORD-10110,2025-09-17,Customer_029,New,Multan,Headphones,Accessories,3,14500,10,39150.0,30481.32,8668.68,EasyPaisa,5,2
+ORD-10111,2025-10-15,Customer_079,VIP,Lahore,Wireless Earbuds,Accessories,3,5000,5,14250.0,12621.66,1628.34,EasyPaisa,5,8
+ORD-10112,2025-06-08,Customer_024,New,Peshawar,Headphones,Accessories,2,5000,10,9000.0,8205.4,794.6,Cash on Delivery,4,7
+ORD-10113,2025-04-21,Customer_021,Returning,Faisalabad,Tablet,Electronics,1,70500,0,70500.0,82583.94,-12083.94,Debit Card,4,3
+ORD-10114,2025-11-13,Customer_057,VIP,Peshawar,Monitor,Computer Accessories,1,33000,5,31350.0,38213.22,-6863.22,JazzCash,3,1
+ORD-10115,2025-09-20,Customer_037,VIP,Gujranwala,Monitor,Computer Accessories,4,56000,10,201600.0,161977.49,39622.51,EasyPaisa,4,2
+ORD-10116,2025-01-29,Customer_028,New,Faisalabad,Headphones,Accessories,2,5500,15,9350.0,11819.16,-2469.16,Debit Card,4,1
+ORD-10117,2025-03-31,Customer_030,VIP,Multan,Wireless Earbuds,Accessories,1,5000,20,4000.0,4147.01,-147.01,Cash on Delivery,5,2
+ORD-10118,2025-02-09,Customer_074,Returning,Peshawar,Power Bank,Accessories,4,2500,0,10000.0,7719.51,2280.49,Debit Card,5,6
+ORD-10119,2025-11-13,Customer_047,New,Peshawar,Smartphone,Electronics,1,96500,10,86850.0,68937.15,17912.85,Cash on Delivery,5,3
+ORD-10120,2025-07-22,Customer_029,Returning,Islamabad,Smartwatch,Wearables,5,25500,15,108375.0,100061.04,8313.96,Cash on Delivery,5,6
+ORD-10121,2025-06-28,Customer_019,New,Karachi,Mouse,Computer Accessories,5,2000,5,9500.0,8611.85,888.15,Credit Card,5,3
+ORD-10122,2025-12-02,Customer_064,Returning,Gujranwala,Headphones,Accessories,2,8000,5,15200.0,18166.61,-2966.61,EasyPaisa,5,1
+ORD-10123,2025-08-29,Customer_036,VIP,Lahore,Monitor,Computer Accessories,3,48500,5,138225.0,111737.1,26487.9,Debit Card,4,3
+ORD-10124,2025-01-30,Customer_012,VIP,Peshawar,Mouse,Computer Accessories,3,2000,20,4800.0,4622.3,177.7,JazzCash,4,3
+ORD-10125,2025-10-20,Customer_061,VIP,Islamabad,Monitor,Computer Accessories,1,63000,20,50400.0,54294.03,-3894.03,Cash on Delivery,4,4
+ORD-10126,2025-03-30,Customer_057,VIP,Islamabad,Keyboard,Computer Accessories,3,3000,0,9000.0,7028.19,1971.81,Debit Card,5,1
+ORD-10127,2025-12-14,Customer_043,New,Multan,Wireless Earbuds,Accessories,4,8000,15,27200.0,26716.57,483.43,Cash on Delivery,5,4
+ORD-10128,2025-12-03,Customer_020,Returning,Karachi,Mouse,Computer Accessories,3,4500,10,12150.0,11134.08,1015.92,EasyPaisa,5,8
+ORD-10129,2025-12-29,Customer_049,VIP,Multan,Tablet,Electronics,3,52000,15,132600.0,110103.29,22496.71,Credit Card,4,7
+ORD-10130,2025-06-08,Customer_063,New,Rawalpindi,Mouse,Computer Accessories,4,2000,10,7200.0,5469.17,1730.83,Credit Card,4,2
+ORD-10131,2025-10-04,Customer_005,VIP,Multan,Tablet,Electronics,3,34500,0,103500.0,80889.18,22610.82,EasyPaisa,5,6
+ORD-10132,2025-12-21,Customer_022,VIP,Gujranwala,Tablet,Electronics,4,68000,5,258400.0,193786.25,64613.75,Cash on Delivery,5,5
+ORD-10133,2025-08-18,Customer_061,New,Multan,Power Bank,Accessories,2,5000,20,8000.0,8021.19,-21.19,EasyPaisa,4,2
+ORD-10134,2025-08-03,Customer_078,New,Faisalabad,Keyboard,Computer Accessories,3,6000,15,15300.0,14050.46,1249.54,Cash on Delivery,5,8
+ORD-10135,2025-09-22,Customer_021,Returning,Gujranwala,Keyboard,Computer Accessories,3,9000,0,27000.0,22201.57,4798.43,EasyPaisa,4,6
+ORD-10136,2025-06-28,Customer_051,VIP,Multan,Tablet,Electronics,1,57500,5,54625.0,48492.09,6132.91,Credit Card,4,7
+ORD-10137,2025-02-20,Customer_019,New,Lahore,Power Bank,Accessories,3,3000,5,8550.0,6170.74,2379.26,Debit Card,5,6
+ORD-10138,2025-01-03,Customer_028,New,Peshawar,Keyboard,Computer Accessories,2,8000,20,12800.0,12315.52,484.48,Cash on Delivery,1,6
+ORD-10139,2025-08-03,Customer_009,New,Gujranwala,Headphones,Accessories,3,8500,0,25500.0,17583.52,7916.48,EasyPaisa,5,4
+ORD-10140,2025-05-30,Customer_031,VIP,Peshawar,Mouse,Computer Accessories,5,1500,5,7125.0,6177.82,947.18,Credit Card,5,3
+ORD-10141,2025-10-06,Customer_071,New,Peshawar,Smartphone,Electronics,3,112000,0,336000.0,292548.73,43451.27,JazzCash,5,3
+ORD-10142,2025-07-02,Customer_014,VIP,Multan,Laptop,Electronics,3,119500,10,322650.0,297362.6,25287.4,Credit Card,4,5
+ORD-10143,2025-03-31,Customer_062,VIP,Islamabad,Laptop,Electronics,5,117500,10,528750.0,683893.69,-155143.69,Credit Card,5,6
+ORD-10144,2025-04-13,Customer_040,VIP,Peshawar,Smartphone,Electronics,1,103500,10,93150.0,119709.94,-26559.94,EasyPaisa,4,6
+ORD-10145,2025-01-25,Customer_016,Returning,Peshawar,Keyboard,Computer Accessories,1,4500,5,4275.0,3317.5,957.5,JazzCash,4,6
+ORD-10146,2025-09-12,Customer_035,New,Peshawar,Keyboard,Computer Accessories,3,5500,5,15675.0,12857.47,2817.53,Cash on Delivery,5,3
+ORD-10147,2025-02-10,Customer_058,VIP,Peshawar,Power Bank,Accessories,2,7000,10,12600.0,10419.39,2180.61,Credit Card,4,3
+ORD-10148,2025-06-30,Customer_008,New,Peshawar,Keyboard,Computer Accessories,4,5000,0,20000.0,16507.26,3492.74,Debit Card,4,4
+ORD-10149,2025-12-14,Customer_009,New,Multan,Mouse,Computer Accessories,1,2500,5,2375.0,2124.33,250.67,Debit Card,2,5
+ORD-10150,2025-07-09,Customer_074,New,Multan,Power Bank,Accessories,1,7000,5,6650.0,5710.69,939.31,JazzCash,5,3
+ORD-10151,2025-01-14,Customer_050,VIP,Karachi,Wireless Earbuds,Accessories,3,13500,5,38475.0,35320.21,3154.79,Debit Card,4,5
+ORD-10152,2025-05-27,Customer_026,New,Islamabad,Headphones,Accessories,4,16000,5,60800.0,56273.47,4526.53,Cash on Delivery,5,4
+ORD-10153,2025-06-13,Customer_071,VIP,Faisalabad,Keyboard,Computer Accessories,4,3500,0,14000.0,11789.44,2210.56,Debit Card,5,4
+ORD-10154,2025-03-04,Customer_031,Returning,Lahore,Tablet,Electronics,2,75000,10,135000.0,117262.67,17737.33,Debit Card,5,8
+ORD-10155,2025-10-10,Customer_009,Returning,Peshawar,Mouse,Computer Accessories,3,6000,20,14400.0,15133.18,-733.18,JazzCash,5,2
+ORD-10156,2025-06-12,Customer_067,Returning,Islamabad,Mouse,Computer Accessories,4,4500,0,18000.0,12691.18,5308.82,EasyPaisa,4,4
+ORD-10157,2025-01-29,Customer_039,New,Islamabad,Monitor,Computer Accessories,2,39500,15,67150.0,61665.25,5484.75,Debit Card,5,6
+ORD-10158,2025-05-09,Customer_036,New,Faisalabad,Smartwatch,Wearables,5,23000,10,103500.0,97656.48,5843.52,EasyPaisa,5,2
+ORD-10159,2025-10-25,Customer_078,Returning,Lahore,Mouse,Computer Accessories,5,2000,5,9500.0,7983.62,1516.38,Cash on Delivery,5,2
+ORD-10160,2025-10-20,Customer_064,VIP,Faisalabad,Smartphone,Electronics,5,50500,10,227250.0,204582.06,22667.94,Debit Card,5,3
+ORD-10161,2025-12-19,Customer_062,Returning,Rawalpindi,Keyboard,Computer Accessories,4,4000,10,14400.0,12331.34,2068.66,Debit Card,4,1
+ORD-10162,2025-06-26,Customer_048,VIP,Karachi,Monitor,Computer Accessories,3,37000,10,99900.0,91779.23,8120.77,Debit Card,3,8
+ORD-10163,2025-03-14,Customer_050,VIP,Peshawar,Smartwatch,Wearables,1,26500,10,23850.0,20402.86,3447.14,Credit Card,4,2
+ORD-10164,2025-03-23,Customer_064,Returning,Gujranwala,Tablet,Electronics,5,50500,10,227250.0,181286.62,45963.38,Cash on Delivery,5,3
+ORD-10165,2025-04-21,Customer_037,Returning,Gujranwala,Smartphone,Electronics,5,95000,20,380000.0,414835.23,-34835.23,Debit Card,2,4
+ORD-10166,2025-05-16,Customer_047,New,Peshawar,Mouse,Computer Accessories,1,1500,15,1275.0,1060.18,214.82,Cash on Delivery,5,5
+ORD-10167,2025-02-07,Customer_071,Returning,Karachi,Monitor,Computer Accessories,2,63500,10,114300.0,100411.86,13888.14,Credit Card,4,3
+ORD-10168,2025-07-07,Customer_066,Returning,Lahore,Smartphone,Electronics,3,95000,10,256500.0,225596.41,30903.59,Cash on Delivery,3,5
+ORD-10169,2025-03-18,Customer_042,VIP,Multan,Laptop,Electronics,3,103500,20,248400.0,243390.56,5009.44,Credit Card,5,4
+ORD-10170,2025-09-18,Customer_039,Returning,Lahore,Power Bank,Accessories,3,7000,10,18900.0,16410.72,2489.28,Debit Card,5,4
+ORD-10171,2025-12-19,Customer_034,VIP,Rawalpindi,Wireless Earbuds,Accessories,1,14000,15,11900.0,11154.37,745.63,Cash on Delivery,5,4
+ORD-10172,2025-12-15,Customer_015,New,Lahore,Monitor,Computer Accessories,2,58500,15,99450.0,83017.95,16432.05,JazzCash,5,2
+ORD-10173,2025-07-30,Customer_061,VIP,Lahore,Wireless Earbuds,Accessories,2,10000,15,17000.0,16362.0,638.0,Credit Card,5,3
+ORD-10174,2025-09-02,Customer_023,Returning,Multan,Mouse,Computer Accessories,5,3000,10,13500.0,13194.37,305.63,EasyPaisa,4,4
+ORD-10175,2025-05-07,Customer_039,Returning,Rawalpindi,Wireless Earbuds,Accessories,3,14000,20,33600.0,30175.02,3424.98,JazzCash,4,3
+ORD-10176,2025-10-21,Customer_051,Returning,Islamabad,Wireless Earbuds,Accessories,3,11000,10,29700.0,24339.41,5360.59,Debit Card,4,4
+ORD-10177,2025-12-02,Customer_026,VIP,Faisalabad,Laptop,Electronics,1,113000,10,101700.0,97722.62,3977.38,EasyPaisa,4,2
+ORD-10178,2025-12-09,Customer_030,New,Karachi,Headphones,Accessories,1,7000,5,6650.0,8458.42,-1808.42,JazzCash,4,6
+ORD-10179,2025-03-12,Customer_021,Returning,Gujranwala,Wireless Earbuds,Accessories,4,14500,0,58000.0,63636.25,-5636.25,JazzCash,5,1
+ORD-10180,2025-02-15,Customer_005,New,Peshawar,Smartwatch,Wearables,3,21000,10,56700.0,50978.31,5721.69,Credit Card,4,4
+ORD-10181,2025-05-29,Customer_073,VIP,Karachi,Laptop,Electronics,4,120000,5,456000.0,416314.44,39685.56,Debit Card,1,6
+ORD-10182,2025-03-10,Customer_025,New,Multan,Headphones,Accessories,5,12000,20,48000.0,51471.12,-3471.12,Credit Card,4,6
+ORD-10183,2025-06-22,Customer_025,New,Peshawar,Keyboard,Computer Accessories,3,7500,5,21375.0,26372.56,-4997.56,JazzCash,5,5
+ORD-10184,2025-04-05,Customer_032,New,Faisalabad,Mouse,Computer Accessories,1,4000,15,3400.0,3255.4,144.6,JazzCash,4,8
+ORD-10185,2025-10-21,Customer_031,New,Karachi,Smartwatch,Wearables,3,26000,10,70200.0,57750.36,12449.64,JazzCash,5,1
+ORD-10186,2025-11-24,Customer_079,New,Rawalpindi,Headphones,Accessories,4,7500,10,27000.0,32004.77,-5004.77,Credit Card,4,7
+ORD-10187,2025-10-09,Customer_028,New,Karachi,Keyboard,Computer Accessories,4,3500,10,12600.0,10684.37,1915.63,EasyPaisa,5,7
+ORD-10188,2025-02-27,Customer_065,New,Islamabad,Keyboard,Computer Accessories,3,6500,0,19500.0,16837.25,2662.75,Credit Card,5,1
+ORD-10189,2025-10-26,Customer_058,New,Gujranwala,Wireless Earbuds,Accessories,4,11500,0,46000.0,37538.72,8461.28,Credit Card,5,3
+ORD-10190,2025-12-11,Customer_051,Returning,Lahore,Mouse,Computer Accessories,4,4500,0,18000.0,14251.67,3748.33,Credit Card,5,5
+ORD-10191,2025-02-02,Customer_009,Returning,Lahore,Monitor,Computer Accessories,1,32500,15,27625.0,24339.44,3285.56,Debit Card,2,4
+ORD-10192,2025-07-15,Customer_049,Returning,Karachi,Power Bank,Accessories,2,3500,15,5950.0,5284.25,665.75,EasyPaisa,5,3
+ORD-10193,2025-10-03,Customer_029,New,Lahore,Tablet,Electronics,3,71500,0,214500.0,153516.52,60983.48,Debit Card,3,3
+ORD-10194,2025-04-28,Customer_036,New,Karachi,Keyboard,Computer Accessories,5,7500,15,31875.0,29489.5,2385.5,Cash on Delivery,4,2
+ORD-10195,2025-02-21,Customer_007,New,Lahore,Power Bank,Accessories,1,7000,5,6650.0,5048.51,1601.49,JazzCash,4,4
+ORD-10196,2025-01-29,Customer_030,VIP,Multan,Keyboard,Computer Accessories,5,4000,5,19000.0,22601.89,-3601.89,EasyPaisa,5,2
+ORD-10197,2025-12-05,Customer_036,New,Islamabad,Monitor,Computer Accessories,2,48500,10,87300.0,82959.41,4340.59,JazzCash,4,4
+ORD-10198,2025-12-10,Customer_054,Returning,Islamabad,Mouse,Computer Accessories,1,5000,10,4500.0,4341.59,158.41,Debit Card,5,3
+ORD-10199,2025-04-26,Customer_060,New,Peshawar,Power Bank,Accessories,5,3500,20,14000.0,15431.75,-1431.75,JazzCash,5,3
+ORD-10200,2025-04-15,Customer_058,Returning,Karachi,Mouse,Computer Accessories,2,5500,15,9350.0,8014.29,1335.71,EasyPaisa,2,3
+ORD-10201,2025-11-05,Customer_076,VIP,Rawalpindi,Smartwatch,Wearables,3,13500,15,34425.0,32996.74,1428.26,JazzCash,2,1
+ORD-10202,2025-04-08,Customer_062,New,Rawalpindi,Smartwatch,Wearables,3,22500,0,67500.0,73827.36,-6327.36,JazzCash,3,8
+ORD-10203,2025-10-01,Customer_047,VIP,Gujranwala,Smartwatch,Wearables,3,29500,10,79650.0,91045.58,-11395.58,JazzCash,4,4
+ORD-10204,2025-07-31,Customer_019,New,Faisalabad,Smartphone,Electronics,3,105000,5,299250.0,237554.41,61695.59,EasyPaisa,5,1
+ORD-10205,2025-06-18,Customer_032,Returning,Multan,Monitor,Computer Accessories,4,65000,10,234000.0,184725.39,49274.61,Debit Card,5,2
+ORD-10206,2025-06-30,Customer_063,New,Lahore,Keyboard,Computer Accessories,4,8000,20,25600.0,22836.7,2763.3,EasyPaisa,5,2
+ORD-10207,2025-11-19,Customer_002,New,Gujranwala,Laptop,Electronics,1,99500,0,99500.0,75866.61,23633.39,Debit Card,5,2
+ORD-10208,2025-01-09,Customer_002,New,Faisalabad,Laptop,Electronics,5,134500,20,538000.0,545973.74,-7973.74,EasyPaisa,5,1
+ORD-10209,2025-04-02,Customer_020,New,Rawalpindi,Headphones,Accessories,5,5000,15,21250.0,21030.84,219.16,EasyPaisa,3,2
+ORD-10210,2025-02-10,Customer_073,New,Rawalpindi,Mouse,Computer Accessories,3,3500,10,9450.0,8809.37,640.63,Debit Card,4,3
+ORD-10211,2025-10-10,Customer_022,New,Gujranwala,Smartphone,Electronics,1,49000,15,41650.0,37036.79,4613.21,JazzCash,5,3
+ORD-10212,2025-12-21,Customer_006,New,Faisalabad,Wireless Earbuds,Accessories,1,12500,0,12500.0,9074.42,3425.58,EasyPaisa,4,6
+ORD-10213,2025-04-17,Customer_051,New,Faisalabad,Monitor,Computer Accessories,2,30000,10,54000.0,40987.9,13012.1,Credit Card,5,4
+ORD-10214,2025-10-04,Customer_018,VIP,Karachi,Monitor,Computer Accessories,5,43000,15,182750.0,175312.5,7437.5,EasyPaisa,5,3
+ORD-10215,2025-02-08,Customer_077,Returning,Multan,Wireless Earbuds,Accessories,1,4000,15,3400.0,2905.72,494.28,Cash on Delivery,5,3
+ORD-10216,2025-10-11,Customer_075,VIP,Peshawar,Headphones,Accessories,4,17500,20,56000.0,50793.94,5206.06,Cash on Delivery,4,7
+ORD-10217,2025-03-20,Customer_020,VIP,Peshawar,Monitor,Computer Accessories,2,46500,0,93000.0,64765.91,28234.09,Debit Card,5,3
+ORD-10218,2025-08-16,Customer_017,New,Islamabad,Wireless Earbuds,Accessories,1,5000,0,5000.0,6477.71,-1477.71,JazzCash,4,3
+ORD-10219,2025-02-15,Customer_077,Returning,Peshawar,Keyboard,Computer Accessories,5,6500,15,27625.0,22771.4,4853.6,Cash on Delivery,3,3
+ORD-10220,2025-10-14,Customer_074,VIP,Islamabad,Headphones,Accessories,4,11500,0,46000.0,37948.56,8051.44,JazzCash,5,6
+ORD-10221,2025-03-16,Customer_054,Returning,Gujranwala,Tablet,Electronics,3,38500,10,103950.0,116525.9,-12575.9,Cash on Delivery,4,1
+ORD-10222,2025-04-11,Customer_001,Returning,Multan,Wireless Earbuds,Accessories,2,7500,20,12000.0,11981.42,18.58,EasyPaisa,3,3
+ORD-10223,2025-11-30,Customer_042,VIP,Rawalpindi,Power Bank,Accessories,4,5000,10,18000.0,15322.46,2677.54,JazzCash,3,8
+ORD-10224,2025-12-22,Customer_032,Returning,Peshawar,Wireless Earbuds,Accessories,4,6000,10,21600.0,17718.95,3881.05,Debit Card,5,4
+ORD-10225,2025-10-07,Customer_004,VIP,Gujranwala,Power Bank,Accessories,1,5000,5,4750.0,3992.23,757.77,Credit Card,5,2
+ORD-10226,2025-07-29,Customer_039,New,Faisalabad,Keyboard,Computer Accessories,3,8500,0,25500.0,32929.55,-7429.55,Credit Card,3,4
+ORD-10227,2025-09-03,Customer_054,VIP,Lahore,Power Bank,Accessories,1,5500,20,4400.0,4829.77,-429.77,Debit Card,5,4
+ORD-10228,2025-12-03,Customer_079,New,Peshawar,Mouse,Computer Accessories,1,6000,0,6000.0,5002.74,997.26,Debit Card,3,4
+ORD-10229,2025-09-19,Customer_074,New,Gujranwala,Power Bank,Accessories,1,3000,0,3000.0,2195.24,804.76,Debit Card,5,5
+ORD-10230,2025-01-13,Customer_011,New,Islamabad,Power Bank,Accessories,5,6000,5,28500.0,22469.8,6030.2,Debit Card,4,3
+ORD-10231,2025-06-28,Customer_058,Returning,Karachi,Headphones,Accessories,4,10000,5,38000.0,31368.92,6631.08,Debit Card,4,3
+ORD-10232,2025-12-13,Customer_032,VIP,Islamabad,Laptop,Electronics,1,102000,10,91800.0,82578.59,9221.41,EasyPaisa,5,5
+ORD-10233,2025-04-29,Customer_024,VIP,Peshawar,Tablet,Electronics,5,51000,15,216750.0,222281.59,-5531.59,JazzCash,5,5
+ORD-10234,2025-07-19,Customer_036,VIP,Karachi,Laptop,Electronics,2,134000,20,214400.0,213982.09,417.91,EasyPaisa,4,1
+ORD-10235,2025-08-23,Customer_063,VIP,Multan,Smartphone,Electronics,2,113500,10,204300.0,169159.71,35140.29,EasyPaisa,5,2
+ORD-10236,2025-08-23,Customer_039,VIP,Karachi,Power Bank,Accessories,4,7000,0,28000.0,20988.38,7011.62,Credit Card,5,4
+ORD-10237,2025-07-11,Customer_054,VIP,Islamabad,Wireless Earbuds,Accessories,2,5000,10,9000.0,7033.9,1966.1,EasyPaisa,5,4
+ORD-10238,2025-12-22,Customer_023,VIP,Islamabad,Power Bank,Accessories,2,5500,20,8800.0,10376.6,-1576.6,JazzCash,5,7
+ORD-10239,2025-11-14,Customer_002,Returning,Islamabad,Headphones,Accessories,2,7000,10,12600.0,11877.56,722.44,Credit Card,4,1
+ORD-10240,2025-09-09,Customer_063,New,Karachi,Power Bank,Accessories,5,6500,20,26000.0,24759.37,1240.63,EasyPaisa,5,3
+ORD-10241,2025-10-03,Customer_073,VIP,Gujranwala,Laptop,Electronics,3,109000,0,327000.0,240335.38,86664.62,EasyPaisa,5,3
+ORD-10242,2025-10-06,Customer_006,VIP,Gujranwala,Mouse,Computer Accessories,5,2000,0,10000.0,11152.07,-1152.07,EasyPaisa,4,5
+ORD-10243,2025-01-17,Customer_012,Returning,Karachi,Smartwatch,Wearables,1,25500,5,24225.0,18858.32,5366.68,Credit Card,4,3
+ORD-10244,2025-03-13,Customer_008,VIP,Multan,Smartwatch,Wearables,3,30500,15,77775.0,65257.46,12517.54,EasyPaisa,5,5
+ORD-10245,2025-12-27,Customer_066,VIP,Karachi,Headphones,Accessories,5,14500,5,68875.0,53992.98,14882.02,Credit Card,5,3
+ORD-10246,2025-03-09,Customer_032,VIP,Peshawar,Power Bank,Accessories,3,2500,5,7125.0,6152.14,972.86,JazzCash,5,2
+ORD-10247,2025-02-08,Customer_012,Returning,Faisalabad,Tablet,Electronics,3,66500,15,169575.0,150629.38,18945.62,Debit Card,5,4
+ORD-10248,2025-02-17,Customer_046,New,Peshawar,Keyboard,Computer Accessories,3,6000,0,18000.0,15368.07,2631.93,Credit Card,4,5
+ORD-10249,2025-05-26,Customer_073,Returning,Multan,Power Bank,Accessories,4,4000,10,14400.0,17641.29,-3241.29,Cash on Delivery,5,3
+ORD-10250,2025-03-22,Customer_055,New,Islamabad,Laptop,Electronics,4,101000,0,404000.0,284758.36,119241.64,Debit Card,1,3
+ORD-10251,2025-07-10,Customer_007,Returning,Faisalabad,Tablet,Electronics,1,47500,10,42750.0,34678.7,8071.3,Credit Card,5,4
